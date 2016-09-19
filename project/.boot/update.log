@@ -1,0 +1,357 @@
+setting 'ivy.default.settings.dir' to 'jar:file:/home/nickdsc/.sbt/launchers/0.13.12/sbt-launch.jar!/org/apache/ivy/core/settings'
+setting 'ivy.basedir' to '/development/projects/02_arch/examples/akka-esper-integration/.'
+setting 'ivy.default.conf.dir' to 'jar:file:/home/nickdsc/.sbt/launchers/0.13.12/sbt-launch.jar!/org/apache/ivy/core/settings'
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.SshResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.VsftpResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.version.PatternVersionMatcher in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.trigger.LogTrigger in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.ant.AntBuildTrigger in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.IvyRepResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.signer.bouncycastle.OpenPGPSignatureGenerator in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.conflict.RegexpConflictManager in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.SFTPResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.osgi.updatesite.UpdateSiteResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.ant.AntCallTrigger in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.MirroredURLResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.packager.PackagerResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.DualResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.VfsResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.JarResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.osgi.obr.OBRResolver in [] nor Ivy classloader
+impossible to define glob matcher: org.apache.ivy.plugins.matcher.GlobPatternMatcher was not found.
+setting 'jline.esc.timeout' to '0'
+setting 'sbt.ivy.home' to 'project/.ivy'
+setting 'java.runtime.name' to 'Java(TM) SE Runtime Environment'
+setting 'sun.boot.library.path' to '/usr/lib/jvm/java-8-oracle/jre/lib/amd64'
+setting 'java.vm.version' to '25.31-b07'
+setting 'sbt.global.base' to 'project/.sbtboot'
+setting 'java.vm.vendor' to 'Oracle Corporation'
+setting 'java.vendor.url' to 'http://java.oracle.com/'
+setting 'path.separator' to ':'
+setting 'java.vm.name' to 'Java HotSpot(TM) 64-Bit Server VM'
+setting 'file.encoding.pkg' to 'sun.io'
+setting 'user.country' to 'US'
+setting 'sun.java.launcher' to 'SUN_STANDARD'
+setting 'sun.os.patch.level' to 'unknown'
+setting 'java.vm.specification.name' to 'Java Virtual Machine Specification'
+setting 'user.dir' to '/development/projects/02_arch/examples/akka-esper-integration'
+setting 'java.runtime.version' to '1.8.0_31-b13'
+setting 'java.awt.graphicsenv' to 'sun.awt.X11GraphicsEnvironment'
+setting 'java.endorsed.dirs' to '/usr/lib/jvm/java-8-oracle/jre/lib/endorsed'
+setting 'os.arch' to 'amd64'
+setting 'java.io.tmpdir' to '/tmp'
+setting 'line.separator' to '
+'
+setting 'java.vm.specification.vendor' to 'Oracle Corporation'
+setting 'os.name' to 'Linux'
+setting 'sun.jnu.encoding' to 'UTF-8'
+setting 'java.library.path' to '/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib'
+setting 'java.specification.name' to 'Java Platform API Specification'
+setting 'java.class.version' to '52.0'
+setting 'sun.management.compiler' to 'HotSpot 64-Bit Tiered Compilers'
+setting 'os.version' to '3.13.0-46-generic'
+setting 'user.home' to '/home/nickdsc'
+setting 'user.timezone' to 'America/Los_Angeles'
+setting 'java.awt.printerjob' to 'sun.print.PSPrinterJob'
+setting 'file.encoding' to 'UTF-8'
+setting 'java.specification.version' to '1.8'
+setting 'java.class.path' to '/home/nickdsc/.sbt/launchers/0.13.12/sbt-launch.jar'
+setting 'user.name' to 'nickdsc'
+setting 'jline.shutdownhook' to 'false'
+setting 'java.vm.specification.version' to '1.8'
+setting 'sun.java.command' to '/home/nickdsc/.sbt/launchers/0.13.12/sbt-launch.jar shell'
+setting 'java.home' to '/usr/lib/jvm/java-8-oracle/jre'
+setting 'sun.arch.data.model' to '64'
+setting 'user.language' to 'en'
+setting 'java.specification.vendor' to 'Oracle Corporation'
+setting 'awt.toolkit' to 'sun.awt.X11.XToolkit'
+setting 'java.vm.info' to 'mixed mode'
+setting 'java.version' to '1.8.0_31'
+setting 'java.ext.dirs' to '/usr/lib/jvm/java-8-oracle/jre/lib/ext:/usr/java/packages/lib/ext'
+setting 'sun.boot.class.path' to '/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/classes'
+setting 'java.vendor' to 'Oracle Corporation'
+setting 'file.separator' to '/'
+setting 'java.vendor.url.bug' to 'http://bugreport.sun.com/bugreport/'
+setting 'sun.io.unicode.encoding' to 'UnicodeLittle'
+setting 'sun.cpu.endian' to 'little'
+setting 'sbt.boot.directory' to 'project/.boot'
+setting 'sun.cpu.isalist' to ''
+setting 'ivy.default.ivy.user.dir' to '/development/projects/02_arch/examples/akka-esper-integration/project/.ivy'
+setting 'ivy.home' to '/development/projects/02_arch/examples/akka-esper-integration/project/.ivy'
+setting 'ivy.cache.dir' to '/development/projects/02_arch/examples/akka-esper-integration/project/.ivy/cache'
+no default cache defined: set to /development/projects/02_arch/examples/akka-esper-integration/project/.ivy/cache
+setting 'ivy.checksums' to 'sha1,md5'
+setting 'ivy.basedir' to '/development/projects/02_arch/examples/akka-esper-integration/project/.boot'
+setting 'basedir' to '/development/projects/02_arch/examples/akka-esper-integration/project/.boot'
+setting 'scala' to '2.10.6'
+:: resolving dependencies :: org.scala-sbt#boot-scala;1.0
+	confs: [default]
+	validate = true
+	refresh = false
+resolving dependencies for configuration 'default'
+== resolving dependencies for org.scala-sbt#boot-scala;1.0 [default]
+loadData of org.scala-sbt#boot-scala;1.0 of rootConf=default
+== resolving dependencies org.scala-sbt#boot-scala;1.0->org.scala-lang#scala-compiler;2.10.6 [default->default]
+loadData of org.scala-lang#scala-compiler;2.10.6 of rootConf=default
+	using redefined-public to resolve org.scala-lang#scala-compiler;2.10.6
+redefined-public: Checking cache for: dependency: org.scala-lang#scala-compiler;2.10.6 {default=[default, optional(default)]}
+redefined-public: no namespace defined: using system
+No entry is found in the ModuleDescriptorCache : /development/projects/02_arch/examples/akka-esper-integration/project/.ivy/cache/org.scala-lang/scala-compiler/ivy-2.10.6.xml
+post 1.3 ivy file: using exact as default matcher
+	resolver not found: null => trying to use the one configured for org.scala-lang#scala-compiler;2.10.6
+	configured resolver found for org.scala-lang#scala-compiler;2.10.6: redefined-public: saving this data
+	found ivy file in cache for org.scala-lang#scala-compiler;2.10.6 (resolved by redefined-public): /development/projects/02_arch/examples/akka-esper-integration/project/.ivy/cache/org.scala-lang/scala-compiler/ivy-2.10.6.xml
+redefined-public: module revision found in cache: org.scala-lang#scala-compiler;2.10.6
+redefined-public: no latest strategy defined: using default
+	found org.scala-lang#scala-compiler;2.10.6 in redefined-public
+== resolving dependencies org.scala-sbt#boot-scala;1.0->org.scala-lang#scala-compiler;2.10.6 [default->runtime]
+loadData of org.scala-lang#scala-compiler;2.10.6 of rootConf=default
+== resolving dependencies org.scala-sbt#boot-scala;1.0->org.scala-lang#scala-compiler;2.10.6 [default->compile]
+loadData of org.scala-lang#scala-compiler;2.10.6 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.10.6->org.scala-lang#scala-library;2.10.6 [compile->master(*)]
+loadData of org.scala-lang#scala-library;2.10.6 of rootConf=default
+	using redefined-public to resolve org.scala-lang#scala-library;2.10.6
+redefined-public: Checking cache for: dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
+No entry is found in the ModuleDescriptorCache : /development/projects/02_arch/examples/akka-esper-integration/project/.ivy/cache/org.scala-lang/scala-library/ivy-2.10.6.xml
+post 1.3 ivy file: using exact as default matcher
+	resolver not found: null => trying to use the one configured for org.scala-lang#scala-library;2.10.6
+	configured resolver found for org.scala-lang#scala-library;2.10.6: redefined-public: saving this data
+	found ivy file in cache for org.scala-lang#scala-library;2.10.6 (resolved by redefined-public): /development/projects/02_arch/examples/akka-esper-integration/project/.ivy/cache/org.scala-lang/scala-library/ivy-2.10.6.xml
+redefined-public: module revision found in cache: org.scala-lang#scala-library;2.10.6
+	found org.scala-lang#scala-library;2.10.6 in redefined-public
+== resolving dependencies org.scala-lang#scala-compiler;2.10.6->org.scala-lang#scala-library;2.10.6 [compile->compile(*)]
+loadData of org.scala-lang#scala-library;2.10.6 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.10.6->org.scala-lang#scala-library;2.10.6 [compile->default]
+loadData of org.scala-lang#scala-library;2.10.6 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.10.6->org.scala-lang#scala-library;2.10.6 [compile->runtime]
+loadData of org.scala-lang#scala-library;2.10.6 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.10.6->org.scala-lang#scala-library;2.10.6 [compile->compile]
+loadData of org.scala-lang#scala-library;2.10.6 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.10.6->org.scala-lang#scala-library;2.10.6 [compile->master]
+loadData of org.scala-lang#scala-library;2.10.6 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.10.6->org.scala-lang#scala-library;2.10.6 [compile->runtime(*)]
+loadData of org.scala-lang#scala-library;2.10.6 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.10.6->org.scala-lang#scala-library;2.10.6 [compile->compile]
+loadData of org.scala-lang#scala-library;2.10.6 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-lang#scala-compiler;2.10.6->org.scala-lang#scala-reflect;2.10.6 [compile->master(*)]
+loadData of org.scala-lang#scala-reflect;2.10.6 of rootConf=default
+	using redefined-public to resolve org.scala-lang#scala-reflect;2.10.6
+redefined-public: Checking cache for: dependency: org.scala-lang#scala-reflect;2.10.6 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
+No entry is found in the ModuleDescriptorCache : /development/projects/02_arch/examples/akka-esper-integration/project/.ivy/cache/org.scala-lang/scala-reflect/ivy-2.10.6.xml
+post 1.3 ivy file: using exact as default matcher
+	resolver not found: null => trying to use the one configured for org.scala-lang#scala-reflect;2.10.6
+	configured resolver found for org.scala-lang#scala-reflect;2.10.6: redefined-public: saving this data
+	found ivy file in cache for org.scala-lang#scala-reflect;2.10.6 (resolved by redefined-public): /development/projects/02_arch/examples/akka-esper-integration/project/.ivy/cache/org.scala-lang/scala-reflect/ivy-2.10.6.xml
+redefined-public: module revision found in cache: org.scala-lang#scala-reflect;2.10.6
+	found org.scala-lang#scala-reflect;2.10.6 in redefined-public
+== resolving dependencies org.scala-lang#scala-compiler;2.10.6->org.scala-lang#scala-reflect;2.10.6 [compile->compile(*)]
+loadData of org.scala-lang#scala-reflect;2.10.6 of rootConf=default
+== resolving dependencies org.scala-lang#scala-reflect;2.10.6->org.scala-lang#scala-library;2.10.6 [compile->master(*)]
+loadData of org.scala-lang#scala-library;2.10.6 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-lang#scala-reflect;2.10.6->org.scala-lang#scala-library;2.10.6 [compile->compile(*)]
+loadData of org.scala-lang#scala-library;2.10.6 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-lang#scala-compiler;2.10.6->org.scala-lang#scala-reflect;2.10.6 [compile->runtime(*)]
+loadData of org.scala-lang#scala-reflect;2.10.6 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.10.6->org.scala-lang#scala-reflect;2.10.6 [compile->compile]
+loadData of org.scala-lang#scala-reflect;2.10.6 of rootConf=default
+== resolving dependencies org.scala-lang#scala-reflect;2.10.6->org.scala-lang#scala-library;2.10.6 [runtime->runtime(*)]
+loadData of org.scala-lang#scala-library;2.10.6 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-lang#scala-reflect;2.10.6->org.scala-lang#scala-library;2.10.6 [runtime->compile]
+loadData of org.scala-lang#scala-library;2.10.6 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-lang#scala-compiler;2.10.6->org.scala-lang#scala-library;2.10.6 [runtime->runtime(*)]
+loadData of org.scala-lang#scala-library;2.10.6 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-lang#scala-compiler;2.10.6->org.scala-lang#scala-library;2.10.6 [runtime->compile]
+loadData of org.scala-lang#scala-library;2.10.6 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-lang#scala-compiler;2.10.6->org.scala-lang#scala-reflect;2.10.6 [runtime->runtime(*)]
+loadData of org.scala-lang#scala-reflect;2.10.6 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-lang#scala-compiler;2.10.6->org.scala-lang#scala-reflect;2.10.6 [runtime->compile]
+loadData of org.scala-lang#scala-reflect;2.10.6 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#boot-scala;1.0->org.scala-lang#scala-compiler;2.10.6 [default->master]
+loadData of org.scala-lang#scala-compiler;2.10.6 of rootConf=default
+== resolving dependencies org.scala-sbt#boot-scala;1.0->org.scala-lang#scala-compiler;2.10.6 [default->optional(default)]
+loadData of org.scala-lang#scala-compiler;2.10.6 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.10.6->org.scala-lang#jline;2.10.6 [optional->master(*)]
+loadData of org.scala-lang#jline;2.10.6 of rootConf=default
+	using redefined-public to resolve org.scala-lang#jline;2.10.6
+redefined-public: Checking cache for: dependency: org.scala-lang#jline;2.10.6 {optional=[compile(*), master(*)]}
+	no ivy file in cache for org.scala-lang#jline;2.10.6: tried /development/projects/02_arch/examples/akka-esper-integration/project/.ivy/cache/org.scala-lang/jline/ivy-2.10.6.xml
+local: no namespace defined: using system
+	no ivy file in cache for org.scala-lang#jline;2.10.6: tried /development/projects/02_arch/examples/akka-esper-integration/project/.ivy/cache/org.scala-lang/jline/ivy-2.10.6.xml
+	 trying /development/projects/02_arch/examples/akka-esper-integration/project/.ivy/local/org.scala-lang/jline/2.10.6/ivys/ivy.xml
+		tried /development/projects/02_arch/examples/akka-esper-integration/project/.ivy/local/org.scala-lang/jline/2.10.6/ivys/ivy.xml
+	local: resource not reachable for org.scala-lang#jline;2.10.6: res=/development/projects/02_arch/examples/akka-esper-integration/project/.ivy/local/org.scala-lang/jline/2.10.6/ivys/ivy.xml
+	 trying /development/projects/02_arch/examples/akka-esper-integration/project/.ivy/local/org.scala-lang/jline/2.10.6/jars/jline.jar
+		tried /development/projects/02_arch/examples/akka-esper-integration/project/.ivy/local/org.scala-lang/jline/2.10.6/jars/jline.jar
+	local: resource not reachable for org.scala-lang#jline;2.10.6: res=/development/projects/02_arch/examples/akka-esper-integration/project/.ivy/local/org.scala-lang/jline/2.10.6/jars/jline.jar
+	local: no ivy file nor artifact found for org.scala-lang#jline;2.10.6
+Maven Central: no namespace defined: using system
+	no ivy file in cache for org.scala-lang#jline;2.10.6: tried /development/projects/02_arch/examples/akka-esper-integration/project/.ivy/cache/org.scala-lang/jline/ivy-2.10.6.xml
+	 trying https://repo1.maven.org/maven2/org/scala-lang/jline/2.10.6/jline-2.10.6.pom
+		tried https://repo1.maven.org/maven2/org/scala-lang/jline/2.10.6/jline-2.10.6.pom
+	Maven Central: found md file for org.scala-lang#jline;2.10.6
+		=> https://repo1.maven.org/maven2/org/scala-lang/jline/2.10.6/jline-2.10.6.pom (2.10.6)
+	parser = pom parser
+	no ivy file in cache for org.scala-lang#jline;2.10.6: tried /development/projects/02_arch/examples/akka-esper-integration/project/.ivy/cache/org.scala-lang/jline/ivy-2.10.6.xml
+downloading https://repo1.maven.org/maven2/org/scala-lang/jline/2.10.6/jline-2.10.6.pom ...
+	Maven Central: downloading https://repo1.maven.org/maven2/org/scala-lang/jline/2.10.6/jline-2.10.6.pom
+		to /development/projects/02_arch/examples/akka-esper-integration/project/.ivy/cache/org.scala-lang/jline/ivy-2.10.6.xml.original.part
+sha1 file found for https://repo1.maven.org/maven2/org/scala-lang/jline/2.10.6/jline-2.10.6.pom: checking...
+	Maven Central: downloading https://repo1.maven.org/maven2/org/scala-lang/jline/2.10.6/jline-2.10.6.pom.sha1
+		to /tmp/ivytmp4146114800562543363sha1
+sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/jline/2.10.6/jline-2.10.6.pom
+	[SUCCESSFUL ] org.scala-lang#jline;2.10.6!jline.pom(pom.original) (209ms)
+	 trying /development/projects/02_arch/examples/akka-esper-integration/project/.ivy/local/org.scala-lang/jline/2.10.6/jars/jline.jar
+		tried /development/projects/02_arch/examples/akka-esper-integration/project/.ivy/local/org.scala-lang/jline/2.10.6/jars/jline.jar
+	local: resource not reachable for org.scala-lang#jline;2.10.6: res=/development/projects/02_arch/examples/akka-esper-integration/project/.ivy/local/org.scala-lang/jline/2.10.6/jars/jline.jar
+	 trying https://repo1.maven.org/maven2/org/scala-lang/jline/2.10.6/jline-2.10.6.jar
+		tried https://repo1.maven.org/maven2/org/scala-lang/jline/2.10.6/jline-2.10.6.jar
+no source artifact found for org.scala-lang#jline;2.10.6
+no javadoc artifact found for org.scala-lang#jline;2.10.6
+	default-cache: parsed downloaded md file for org.scala-lang#jline;2.10.6; parsed=org.scala-lang#jline;2.10.6
+	checking org.scala-lang#jline;2.10.6 from Maven Central against [none]
+	module revision kept as first found: org.scala-lang#jline;2.10.6 from Maven Central
+	found org.scala-lang#jline;2.10.6 in Maven Central
+== resolving dependencies org.scala-lang#scala-compiler;2.10.6->org.scala-lang#jline;2.10.6 [optional->compile(*)]
+loadData of org.scala-lang#jline;2.10.6 of rootConf=default
+== resolving dependencies org.scala-lang#jline;2.10.6->org.fusesource.jansi#jansi;1.4 [compile->master(*)]
+loadData of org.fusesource.jansi#jansi;1.4 of rootConf=default
+	using redefined-public to resolve org.fusesource.jansi#jansi;1.4
+redefined-public: Checking cache for: dependency: org.fusesource.jansi#jansi;1.4 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
+	no ivy file in cache for org.fusesource.jansi#jansi;1.4: tried /development/projects/02_arch/examples/akka-esper-integration/project/.ivy/cache/org.fusesource.jansi/jansi/ivy-1.4.xml
+	no ivy file in cache for org.fusesource.jansi#jansi;1.4: tried /development/projects/02_arch/examples/akka-esper-integration/project/.ivy/cache/org.fusesource.jansi/jansi/ivy-1.4.xml
+	 trying /development/projects/02_arch/examples/akka-esper-integration/project/.ivy/local/org.fusesource.jansi/jansi/1.4/ivys/ivy.xml
+		tried /development/projects/02_arch/examples/akka-esper-integration/project/.ivy/local/org.fusesource.jansi/jansi/1.4/ivys/ivy.xml
+	local: resource not reachable for org.fusesource.jansi#jansi;1.4: res=/development/projects/02_arch/examples/akka-esper-integration/project/.ivy/local/org.fusesource.jansi/jansi/1.4/ivys/ivy.xml
+	 trying /development/projects/02_arch/examples/akka-esper-integration/project/.ivy/local/org.fusesource.jansi/jansi/1.4/jars/jansi.jar
+		tried /development/projects/02_arch/examples/akka-esper-integration/project/.ivy/local/org.fusesource.jansi/jansi/1.4/jars/jansi.jar
+	local: resource not reachable for org.fusesource.jansi#jansi;1.4: res=/development/projects/02_arch/examples/akka-esper-integration/project/.ivy/local/org.fusesource.jansi/jansi/1.4/jars/jansi.jar
+	local: no ivy file nor artifact found for org.fusesource.jansi#jansi;1.4
+	no ivy file in cache for org.fusesource.jansi#jansi;1.4: tried /development/projects/02_arch/examples/akka-esper-integration/project/.ivy/cache/org.fusesource.jansi/jansi/ivy-1.4.xml
+	 trying https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.4/jansi-1.4.pom
+		tried https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.4/jansi-1.4.pom
+	Maven Central: found md file for org.fusesource.jansi#jansi;1.4
+		=> https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.4/jansi-1.4.pom (1.4)
+	parser = pom parser
+	no ivy file in cache for org.fusesource.jansi#jansi;1.4: tried /development/projects/02_arch/examples/akka-esper-integration/project/.ivy/cache/org.fusesource.jansi/jansi/ivy-1.4.xml
+downloading https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.4/jansi-1.4.pom ...
+	Maven Central: downloading https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.4/jansi-1.4.pom
+		to /development/projects/02_arch/examples/akka-esper-integration/project/.ivy/cache/org.fusesource.jansi/jansi/ivy-1.4.xml.original.part
+sha1 file found for https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.4/jansi-1.4.pom: checking...
+	Maven Central: downloading https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.4/jansi-1.4.pom.sha1
+		to /tmp/ivytmp9187127919800469966sha1
+sha1 OK for https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.4/jansi-1.4.pom
+	[SUCCESSFUL ] org.fusesource.jansi#jansi;1.4!jansi.pom(pom.original) (211ms)
+	 trying /development/projects/02_arch/examples/akka-esper-integration/project/.ivy/local/org.fusesource.jansi/jansi/1.4/jars/jansi.jar
+		tried /development/projects/02_arch/examples/akka-esper-integration/project/.ivy/local/org.fusesource.jansi/jansi/1.4/jars/jansi.jar
+	local: resource not reachable for org.fusesource.jansi#jansi;1.4: res=/development/projects/02_arch/examples/akka-esper-integration/project/.ivy/local/org.fusesource.jansi/jansi/1.4/jars/jansi.jar
+	 trying https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.4/jansi-1.4.jar
+		tried https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.4/jansi-1.4.jar
+no source artifact found for org.fusesource.jansi#jansi;1.4
+no javadoc artifact found for org.fusesource.jansi#jansi;1.4
+	default-cache: parsed downloaded md file for org.fusesource.jansi#jansi;1.4; parsed=org.fusesource.jansi#jansi;1.4
+	checking org.fusesource.jansi#jansi;1.4 from Maven Central against [none]
+	module revision kept as first found: org.fusesource.jansi#jansi;1.4 from Maven Central
+	found org.fusesource.jansi#jansi;1.4 in Maven Central
+== resolving dependencies org.scala-lang#jline;2.10.6->org.fusesource.jansi#jansi;1.4 [compile->compile(*)]
+loadData of org.fusesource.jansi#jansi;1.4 of rootConf=default
+== resolving dependencies org.scala-sbt#boot-scala;1.0->org.scala-lang#scala-library;2.10.6 [default->default]
+loadData of org.scala-lang#scala-library;2.10.6 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#boot-scala;1.0->org.scala-lang#scala-library;2.10.6 [default->runtime]
+loadData of org.scala-lang#scala-library;2.10.6 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#boot-scala;1.0->org.scala-lang#scala-library;2.10.6 [default->compile]
+loadData of org.scala-lang#scala-library;2.10.6 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#boot-scala;1.0->org.scala-lang#scala-library;2.10.6 [default->master]
+loadData of org.scala-lang#scala-library;2.10.6 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+Nbr of module to sort : 5
+Sort dependencies of : org.scala-lang#scala-compiler;2.10.6 / Number of dependencies = 3
+Sort dependencies of : org.scala-lang#scala-library;2.10.6 / Number of dependencies = 0
+Sort done for : org.scala-lang#scala-library;2.10.6
+Sort dependencies of : org.scala-lang#scala-reflect;2.10.6 / Number of dependencies = 1
+Module descriptor is processed : org.scala-lang#scala-library;2.10.6
+Sort done for : org.scala-lang#scala-reflect;2.10.6
+Sort dependencies of : org.scala-lang#jline;2.10.6 / Number of dependencies = 1
+Sort dependencies of : org.fusesource.jansi#jansi;1.4 / Number of dependencies = 1
+Sort done for : org.fusesource.jansi#jansi;1.4
+Sort done for : org.scala-lang#jline;2.10.6
+Sort done for : org.scala-lang#scala-compiler;2.10.6
+Module descriptor is processed : org.scala-lang#scala-library;2.10.6
+Module descriptor is processed : org.scala-lang#scala-reflect;2.10.6
+Module descriptor is processed : org.scala-lang#jline;2.10.6
+Module descriptor is processed : org.fusesource.jansi#jansi;1.4
+storing dependency org.scala-lang#scala-compiler;2.10.6 in props
+storing dependency org.scala-lang#scala-library;2.10.6 in props
+	resolved ivy file produced in cache
+:: downloading artifacts ::
+	[NOT REQUIRED] org.scala-lang#scala-compiler;2.10.6!scala-compiler.jar
+	[NOT REQUIRED] org.scala-lang#scala-library;2.10.6!scala-library.jar
+	[NOT REQUIRED] org.scala-lang#scala-reflect;2.10.6!scala-reflect.jar
+	 trying https://repo1.maven.org/maven2/org/scala-lang/jline/2.10.6/jline-2.10.6.jar
+		tried https://repo1.maven.org/maven2/org/scala-lang/jline/2.10.6/jline-2.10.6.jar
+downloading https://repo1.maven.org/maven2/org/scala-lang/jline/2.10.6/jline-2.10.6.jar ...
+	Maven Central: downloading https://repo1.maven.org/maven2/org/scala-lang/jline/2.10.6/jline-2.10.6.jar
+		to /development/projects/02_arch/examples/akka-esper-integration/project/.ivy/cache/org.scala-lang/jline/jars/jline-2.10.6.jar.part
+sha1 file found for https://repo1.maven.org/maven2/org/scala-lang/jline/2.10.6/jline-2.10.6.jar: checking...
+	Maven Central: downloading https://repo1.maven.org/maven2/org/scala-lang/jline/2.10.6/jline-2.10.6.jar.sha1
+		to /tmp/ivytmp6076716289708275315sha1
+sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/jline/2.10.6/jline-2.10.6.jar
+	[SUCCESSFUL ] org.scala-lang#jline;2.10.6!jline.jar (322ms)
+	 trying https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.4/jansi-1.4.jar
+		tried https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.4/jansi-1.4.jar
+downloading https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.4/jansi-1.4.jar ...
+	Maven Central: downloading https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.4/jansi-1.4.jar
+		to /development/projects/02_arch/examples/akka-esper-integration/project/.ivy/cache/org.fusesource.jansi/jansi/jars/jansi-1.4.jar.part
+sha1 file found for https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.4/jansi-1.4.jar: checking...
+	Maven Central: downloading https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.4/jansi-1.4.jar.sha1
+		to /tmp/ivytmp688185362844426654sha1
+sha1 OK for https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.4/jansi-1.4.jar
+	[SUCCESSFUL ] org.fusesource.jansi#jansi;1.4!jansi.jar (230ms)
+:: resolution report :: resolve 662ms :: artifacts dl 555ms
+Nbr of module to sort : 5
+Sort dependencies of : org.scala-lang#scala-compiler;2.10.6 / Number of dependencies = 3
+Sort dependencies of : org.scala-lang#scala-library;2.10.6 / Number of dependencies = 0
+Sort done for : org.scala-lang#scala-library;2.10.6
+Sort dependencies of : org.scala-lang#scala-reflect;2.10.6 / Number of dependencies = 1
+Module descriptor is processed : org.scala-lang#scala-library;2.10.6
+Sort done for : org.scala-lang#scala-reflect;2.10.6
+Sort dependencies of : org.scala-lang#jline;2.10.6 / Number of dependencies = 1
+Sort dependencies of : org.fusesource.jansi#jansi;1.4 / Number of dependencies = 1
+Sort done for : org.fusesource.jansi#jansi;1.4
+Sort done for : org.scala-lang#jline;2.10.6
+Sort done for : org.scala-lang#scala-compiler;2.10.6
+Module descriptor is processed : org.scala-lang#scala-library;2.10.6
+Module descriptor is processed : org.scala-lang#scala-reflect;2.10.6
+Module descriptor is processed : org.scala-lang#jline;2.10.6
+Module descriptor is processed : org.fusesource.jansi#jansi;1.4
+	report for org.scala-sbt#boot-scala;1.0 default produced in /development/projects/02_arch/examples/akka-esper-integration/project/.boot/resolution-cache/org.scala-sbt-boot-scala-default.xml
+	resolve done (662ms resolve - 555ms download)
+setting 'scala' to '2.10.6'
+:: retrieving :: org.scala-sbt#boot-scala
+	checkUpToDate=true
+post 1.3 ivy file: using exact as default matcher
+no explicit confs given for retrieve, using ivy file: file:/development/projects/02_arch/examples/akka-esper-integration/project/.boot/resolution-cache/resolved-org.scala-sbt-boot-scala-1.0.xml
+	confs: [default]
+	retrieving /development/projects/02_arch/examples/akka-esper-integration/project/.ivy/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.10.6.jar
+		to /development/projects/02_arch/examples/akka-esper-integration/project/.boot/scala-2.10.6/lib/scala-compiler.jar
+	retrieving /development/projects/02_arch/examples/akka-esper-integration/project/.ivy/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.10.6.jar
+		to /development/projects/02_arch/examples/akka-esper-integration/project/.boot/scala-2.10.6/lib/scala-reflect.jar
+	retrieving /development/projects/02_arch/examples/akka-esper-integration/project/.ivy/cache/org.fusesource.jansi/jansi/jars/jansi-1.4.jar
+		to /development/projects/02_arch/examples/akka-esper-integration/project/.boot/scala-2.10.6/lib/jansi.jar
+	retrieving /development/projects/02_arch/examples/akka-esper-integration/project/.ivy/cache/org.scala-lang/jline/jars/jline-2.10.6.jar
+		to /development/projects/02_arch/examples/akka-esper-integration/project/.boot/scala-2.10.6/lib/jline.jar
+	retrieving /development/projects/02_arch/examples/akka-esper-integration/project/.ivy/cache/org.scala-lang/scala-library/jars/scala-library-2.10.6.jar
+		to /development/projects/02_arch/examples/akka-esper-integration/project/.boot/scala-2.10.6/lib/scala-library.jar
+	5 artifacts copied, 0 already retrieved (24494kB/41ms)
+	retrieve done (41ms)
