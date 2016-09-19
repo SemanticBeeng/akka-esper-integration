@@ -3,6 +3,8 @@ target
 .metadata
 
 project/target
+project/.ivy/
+project/.boot/
 
 .worksheet
 
